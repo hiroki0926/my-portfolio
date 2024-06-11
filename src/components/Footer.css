@@ -1,0 +1,35 @@
+.footer {
+  background-color: rgba(5, 97, 45, 0.9);
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  border-top: 2px solid rgba(5, 97, 45, 0.9);
+  border-radius: 8px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.footer-section {
+  margin-bottom: 20px;
+}
+
+.footer-section h3 {
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+.footer-section p {
+  margin: 5px 0;
+}
+
+.footer a {
+  color: #ffdd57;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+.education {
+  padding: 80px 20px 20px;
+}
+
+.education-item {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.education-item h3 {
+  font-size: 1.5em;
+  margin-top: 0;
+  color: rgba(5, 97, 45, 0.9);
+}
+
+.education-item p {
+  margin: 5px 0;
+}
